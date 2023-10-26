@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Strings</source>
+        <target state="translated">Strings</target>
+        <note>InfoPlist.strings
+  Strings
+
+  Created by Sergey Balalaev on 07.09.2022.</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Strings</source>
+        <target state="new">Strings</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>This app needs the camera to scan barcodes</source>
+        <target state="translated">This app needs the camera to scan barcodes</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
+    </header>
+    <body>
+      <trans-unit id="Hello.world" xml:space="preserve">
+        <source>Hello, world!</source>
+        <target state="translated">Hello, world!</target>
+        <note>Localizable.strings
+  Strings
+
+  Created by Sergey Balalaev on 04.09.2022.</note>
+      </trans-unit>
+      <trans-unit id="Hello.worlds|==|plural.one" xml:space="preserve">
+        <source>Hello %lld World</source>
+        <target state="translated">Hello %lld World</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hello.worlds|==|plural.other" xml:space="preserve">
+        <source>Hello %lld Worlds</source>
+        <target state="translated">Hello %lld Worlds</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hello.worlds|==|plural.zero" xml:space="preserve">
+        <source>Hello no World</source>
+        <target state="translated">Hello no World</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Help.me" xml:space="preserve">
+        <source>Help me</source>
+        <target state="translated">Help me</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Strings.Catalog" xml:space="preserve">
+        <source>We support new localisation format</source>
+        <target state="translated">We support new localisation format</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Strings.Catalog in %lld to %lld" xml:space="preserve">
+        <source>Format found in %1$#@arg1@ from %2$#@arg2@</source>
+        <target state="translated">Format found in %1$#@arg1@ from %2$#@arg2@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Strings.Catalog in %lld to %lld|==|substitutions.arg1.plural.one" xml:space="preserve">
+        <source>%1$lld file</source>
+        <target state="translated">%1$lld file</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Strings.Catalog in %lld to %lld|==|substitutions.arg1.plural.other" xml:space="preserve">
+        <source>%1$lld files</source>
+        <target state="translated">%1$lld files</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Strings.Catalog in %lld to %lld|==|substitutions.arg2.plural.one" xml:space="preserve">
+        <source>%2$lld directory</source>
+        <target state="translated">%2$lld directory</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Strings.Catalog in %lld to %lld|==|substitutions.arg2.plural.other" xml:space="preserve">
+        <source>%2$lld directories</source>
+        <target state="translated">%2$lld directories</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
